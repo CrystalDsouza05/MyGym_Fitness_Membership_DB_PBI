@@ -1,6 +1,6 @@
 # 🏋️ MyGym Fitness Analytics Dashboard
 
-## Dashboard Link Coming Soon....
+## [Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiZTNmODQ3MjYtOWMwYS00NWNiLTgwNWQtYjg4MTMzZTg3OTcxIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
 
 ---
 
